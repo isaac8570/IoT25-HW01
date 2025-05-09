@@ -18,4 +18,4 @@ Used the onboard LED to blink at 1-second intervals.
 
 ### Execution Video
 
-![ezgif-36bf6d8530570b](https://github.com/user-attachments/assets/4b11cbcd-0bff-408e-b10f-ab061911363a)
+![ezgif-36bf6d8530570b](https://github.com/user-attachments/assets/74ef66f2-21a5-4736-b650-a5d13dc1107e)
